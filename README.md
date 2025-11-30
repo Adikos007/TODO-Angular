@@ -7,10 +7,10 @@ Node.js. Download link: https://nodejs.org/en/download
 
  1,Naklonovani repozitare pomoci url: https://github.com/Adikos007/TODO-list.git
 
- 2, instalace npm 
+ 2, instalace npm<br> 
    Do terminalu napiste prikaz: npm install
 
- 3,Spusteni aplikace 
+ 3,Spusteni aplikace<br> 
    Do terminalu napiste prikaz: ng serve
 
   
